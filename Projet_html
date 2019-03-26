@@ -1,4 +1,4 @@
-~$ git clone https://github.com/username/username.github.io
-~$ cd username.github.io
+~$ git clone https://github.com/Steven-10/Steven-10.github.io
+~$ cd Steven-10.github.io
 
 ~$ echo "Hello World" > index.html
